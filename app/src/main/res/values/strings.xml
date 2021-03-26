@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">DashboardUI</string>
+    <string name="available_products">Available Products</string>
+    <string name="pencil_case">Pencil Case</string>
+    <string name="notebook">Notebook</string>
+    <string name="book">Book</string>
+    <string name="pen">Pen</string>
+    <string name="eraser">Eraser</string>
+    <string name="ruler">Ruler</string>
+    <string name="todo">TODO</string>
+
+</resources>
